@@ -1,0 +1,19 @@
+{
+  "raw_n": 14041,
+  "clean_n": 12042,
+  "mean_sleep_0h": 6.837432263443102,
+  "mean_sleep_5plus": 6.465365853658537,
+  "diff_hours_5plus_vs_0h": -0.37206640978456473,
+  "diff_minutes_5plus_vs_0h": -22.323984587073884,
+  "pct_8plus_0h": 34.472696957065445,
+  "pct_8plus_5plus": 24.878048780487806,
+  "pct_point_diff_5plus_vs_0h": -9.594648176577639,
+  "anova_F": 17.411280401964216,
+  "anova_p": 3.607666078653104e-20,
+  "eta_squared": 0.008605623009577498,
+  "regression_screen_coef_hours": -0.09307571959042653,
+  "regression_screen_coef_minutes": -5.584543175425591,
+  "regression_screen_p": 3.169619273353993e-27,
+  "regression_r2": 0.03865712830285983,
+  "regression_adj_r2": 0.03825776685732263
+}
