@@ -5,10 +5,10 @@ Name:林謙宏
 Student ID: 112370144
 
 ## Project Repository
-https://github.com/[your-username]/[your-repository-name]
+https://github.com/littlemouse0/2026-Spring-Stat-2---final
 
 ## Presentation Video
-
+https://youtu.be/IoP5_eiuauk
 
 ## Research Question
 Among U.S. high school students in the 2007 Youth Risk Behavior Survey (YRBS), is recreational computer / video game use associated with average sleep duration on school nights?
